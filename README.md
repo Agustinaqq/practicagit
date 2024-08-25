@@ -26,4 +26,5 @@ for (let i = 0; i < numInic; i++) {
 console.log(sumOfOdds(10))
 
 Este cambio es de rama_primera 
+Este es otro cambio de la rama_primera 
 
