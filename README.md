@@ -26,4 +26,4 @@ for (let i = 0; i < numInic; i++) {
 console.log(sumOfOdds(10))
 
 
-//Dana fijate que le erraste en todo el codigo 
+//Dana fijate que le erraste en todo el codigo ...
