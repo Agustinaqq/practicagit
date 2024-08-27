@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # practicagit
 Primer cambio Agus
 
@@ -27,3 +28,6 @@ console.log(sumOfOdds(10))
 
 
 //Dana fijate que le erraste en todo el codigo ...
+=======
+cambios de dana
+>>>>>>> origin/main
